@@ -4,26 +4,35 @@
     "id": "@id",
     "type": "@type",
     "secureld": "urn:secureld#",
-    "Activity": "secureld:Activity",
-    "ActivityParticipantCredential": "secureld:ActivityParticipantCredential",
-    "Individual": "secureld:Individual",
+    "Base": "secureld:base",
+    "CareerGroup": "secureld:CareerGroup",
+    "DataService": "secureld:DataService",
     "Instance": "secureld:Instance",
     "NonPersonEntity": "secureld:NonPersonEntity",
-    "JCTDEvent": "secureld:JctdEvent",
-    "OperationalDemo": "secureld:OperationalDemo",
-    "RDTEDemo": "secureld:RDTE_Demo",
+    "DataServiceAccreditationCredential": "secureld:DataServiceAccreditationCredential",
     "SoftwareApplication": "secureld:SoftwareApplication",
-    "membership": {
-      "@id": "secureld:membership"
-    },
-    "organization": {
-      "@id": "secureld:organization",
+    "subjectData": "secureld:subjectData",
+    "UnitedStatesAirForce": "secureld:UnitedStatesAirForce",
+    "icaoCode": "secureld:icaoCode",
+    "groupCode": "secureld:groupCode",
+    "accreditation": {
+      "@id": "secureld:accreditation",
       "@type": "@id"
     },
+    "category": {
+      "@id": "secureld:category",
+      "@type": "@id"
+    },
+    "location": {
+      "@id": "secureld:location",
+      "@type": "@id"
+    },
+    "address": "https://schema.org/address",
     "name": "https://schema.org/name",
     "description": "https://schema.org/description",
-    "location": "https://schema.org/location",
-    "startDate": "https://schema.org/startDate",
-    "endDate": "https://schema.org/endDate"
+    "service": {
+      "@id": "secureld:service",
+      "@type": "@id"
+    }
   }
 }
