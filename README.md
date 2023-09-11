@@ -1,7 +1,7 @@
-# FIXME JSON-LD Context _(@digitalbazaar/FIXME-context)_
+# FIXME JSON-LD Context _(@dlinc/FIXME-context)_
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/digitalbazaar/FIXME-context/main.yml)](https://github.com/digitalbazaar/FIXME-context/actions/workflow/main.yml)
-[![NPM Version](https://img.shields.io/npm/v/@digitalbazaar/FIXME-context.svg)](https://npm.im/@digitalbazaar/FIXME-context)
+[![NPM Version](https://img.shields.io/npm/v/@dlinc/context-secureld-data-service-accreditation.svg)](https://npm.im/@dlinc/context-secureld-data-service-accreditation)
 
 > A FIXME JSON-LD context for JavaScript.
 
@@ -27,7 +27,7 @@ See also (related specs):
 To install via NPM:
 
 ```
-npm install @digitalbazaar/FIXME-context
+npm install @dlinc/context-secureld-data-service-accreditation
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ npm install @digitalbazaar/FIXME-context
 // ESM
 import * as ctx from '@digialbazaar/FIXME-context';
 // CommonJS
-const ctx = require('@digitalbazaar/FIXME-context');
+const ctx = require('@dlinc/context-secureld-data-service-accreditation');
 const {contexts, constants, appContextMap} = ctx;
 
 // Default context URL
@@ -85,11 +85,11 @@ Instead, make all context changes to `js/context.js`.
 ## Commercial Support
 
 Commercial support for this library is available upon request from
-Digital Bazaar: support@digitalbazaar.com
+Dogwood Logic: support@digitalbazaar.com
 
 ## License
 
-- BSD 3-Clause © Digital Bazaar
+- BSD 3-Clause © Dogwood Logic
 - See the [LICENSE](./LICENSE) file for details.
 
 [CBOR-LD]: https://digitalbazaar.github.io/cbor-ld-spec/
