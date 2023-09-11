@@ -1,4 +1,4 @@
-# FIXME JSON-LD Context _(@dlinc/context-secureld-data-service-accreditation)_
+# SecureLD Data Service Accreditation JSON-LD Context _(@dlinc/context-secureld-data-service-accreditation)_
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/dogwoodlogic/context-secureld-data-service-accreditation/main.yml)](https://github.com/digitalbazaar/FIXME-context/actions/workflow/main.yml)
 [![NPM Version](https://img.shields.io/npm/v/@dlinc/context-secureld-data-service-accreditation.svg)](https://npm.im/@dlinc/context-secureld-data-service-accreditation)
