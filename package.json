@@ -1,5 +1,5 @@
 {
-  "name": "@dlinc/context-secureld-data-service-accreditation",
+  "name": "@secureld/data-service-accreditation-context",
   "version": "0.0.1",
   "description": "FIXME JSON-LD context for JavaScript.",
   "main": "js/index.js",

@@ -1,4 +1,4 @@
-# SecureLD Data Service Accreditation JSON-LD Context _(@dlinc/context-secureld-data-service-accreditation)_
+# SecureLD Data Service Accreditation JSON-LD Context _(@secureld/data-service-accreditation-context)_
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/dogwoodlogic/context-secureld-data-service-accreditation/main.yml)](https://github.com/digitalbazaar/FIXME-context/actions/workflow/main.yml)
 [![NPM Version](https://img.shields.io/npm/v/@dlinc/context-secureld-data-service-accreditation.svg)](https://npm.im/@dlinc/context-secureld-data-service-accreditation)
@@ -21,16 +21,16 @@
 To install via NPM:
 
 ```
-npm install @dlinc/context-secureld-data-service-accreditation
+npm install @secureld/data-service-accreditation-context
 ```
 
 ## Usage
 
 ```js
 // ESM
-import * as ctx from '@dlinc/context-secureld-data-service-accreditation';
+import * as ctx from '@secureld/data-service-accreditation-context';
 // CommonJS
-const ctx = require('@dlinc/context-secureld-data-service-accreditation');
+const ctx = require('@secureld/data-service-accreditation-context');
 const {contexts, constants, appContextMap} = ctx;
 
 // Default context URL
@@ -63,7 +63,7 @@ The library exports the following properties:
 
 ## Status
 
-- `https://w3id.org/FIXME/v1`: Under development. Not stable.
+- `https://dogwoodlogic.github.io/context-secureld-data-service-accreditation/contexts/data-service-accreditation-v1.jsonld`: Under development. Not stable.
 
 ## Developing
 

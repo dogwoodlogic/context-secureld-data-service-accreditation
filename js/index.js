@@ -9,7 +9,8 @@ const constants = {
   // default context output filename under ./contexts/
   CONTEXT_FILENAME: 'data-service-accreditation-v1.jsonld',
   // default context well known URL id
-  CONTEXT_URL: 'urn:dsa:v1',
+  // eslint-disable-next-line max-len
+  CONTEXT_URL: 'https://dogwoodlogic.github.io/context-secureld-data-service-accreditation/contexts/data-service-accreditation-v1.jsonld',
   // default context CBOR-LD codec id
   // value between 0x0 and 0x7FFF for globally registered term codec values
   // or >= 0x8000 for app-specific local terms
