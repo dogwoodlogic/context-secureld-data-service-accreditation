@@ -1,7 +1,7 @@
 # SecureLD Data Service Accreditation JSON-LD Context _(@secureld/data-service-accreditation-context)_
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/dogwoodlogic/context-secureld-data-service-accreditation/main.yml)](https://github.com/dogwoodlogic/context-secureld-data-service-accreditation/actions/workflow/main.yml)
-[![NPM Version](https://img.shields.io/npm/v/@dlinc/context-secureld-data-service-accreditation.svg)](https://npm.im/@dlinc/context-secureld-data-service-accreditation)
+[![NPM Version](https://img.shields.io/npm/v/@secureld/data-service-accreditation-context.svg)](https://npm.im/@secureld/data-service-accreditation-context)
 
 > SecureLD Data Service Accreditation JSON-LD context for JavaScript.
 
