@@ -1,9 +1,9 @@
 # SecureLD Data Service Accreditation JSON-LD Context _(@secureld/data-service-accreditation-context)_
 
-[![Build status](https://img.shields.io/github/actions/workflow/status/dogwoodlogic/context-secureld-data-service-accreditation/main.yml)](https://github.com/digitalbazaar/FIXME-context/actions/workflow/main.yml)
+[![Build status](https://img.shields.io/github/actions/workflow/status/dogwoodlogic/context-secureld-data-service-accreditation/main.yml)](https://github.com/dogwoodlogic/context-secureld-data-service-accreditation/actions/workflow/main.yml)
 [![NPM Version](https://img.shields.io/npm/v/@dlinc/context-secureld-data-service-accreditation.svg)](https://npm.im/@dlinc/context-secureld-data-service-accreditation)
 
-> A FIXME JSON-LD context for JavaScript.
+> SecureLD Data Service Accreditation JSON-LD context for JavaScript.
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ const {contexts, constants, appContextMap} = ctx;
 
 // Default context URL
 ctx.CONTEXT_URL
-// -> 'https://w3id.org/FIXME/v1'
+// -> 'https://dogwoodlogic.github.io/...'
 
 // Default context data
 ctx.CONTEXT

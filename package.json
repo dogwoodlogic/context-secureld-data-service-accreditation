@@ -1,7 +1,7 @@
 {
   "name": "@secureld/data-service-accreditation-context",
   "version": "0.0.1",
-  "description": "FIXME JSON-LD context for JavaScript.",
+  "description": "SecureLD Data Service Accreditation JSON-LD context for JavaScript.",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",
   "files": [
